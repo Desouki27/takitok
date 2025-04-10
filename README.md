@@ -69,7 +69,7 @@ To get started with the project, follow the instructions below:
 
    Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
 
-   ## Installation
+## Installation
 
 Before running the project, ensure your development environment is set up properly:
 
